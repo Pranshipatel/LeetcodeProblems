@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0001-two-sum) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0001-two-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
