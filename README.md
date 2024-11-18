@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
