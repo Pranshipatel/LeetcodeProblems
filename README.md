@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
@@ -44,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
