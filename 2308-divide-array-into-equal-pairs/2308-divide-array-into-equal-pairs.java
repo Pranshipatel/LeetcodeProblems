@@ -1,15 +1,12 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        if(nums.length == 1){
-            return false;
+        if(nums.length % 2 != 0)return false;
+         HashMap<Integer, Integer> map = new HashMap<>();
+        for(int key : nums){
+            map.put(key, map.getOrDefault(key,0)+1);
         }
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int num : nums){
-            map.put(num,map.getOrDefault(num,0)+1);
-        }
-        System.out.println(map);
-        for(int count : map.values()){
-            if(count % 2 != 0){
+        for(int key : map.keySet()){
+            if(map.get(key) % 2 != 0){
                 return false;
             }
         }
