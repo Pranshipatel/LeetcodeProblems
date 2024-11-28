@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Simulation
