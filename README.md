@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Bit Manipulation
@@ -62,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
