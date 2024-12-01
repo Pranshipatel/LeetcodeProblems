@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
