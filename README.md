@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2365-percentage-of-letter-in-string](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2365-percentage-of-letter-in-string) |
 ## Two Pointers
 |  |
 | ------- |
