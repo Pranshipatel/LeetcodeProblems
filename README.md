@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [1168-duplicate-zeros](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2181-smallest-index-with-equal-value) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0075-sort-colors) |
+| [1168-duplicate-zeros](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
