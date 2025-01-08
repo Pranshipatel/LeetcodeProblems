@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [1168-duplicate-zeros](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0135-candy) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
