@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2181-smallest-index-with-equal-value) |
