@@ -138,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
