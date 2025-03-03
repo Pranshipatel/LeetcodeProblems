@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
