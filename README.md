@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0050-powx-n) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0242-valid-anagram) |
