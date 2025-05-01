@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -166,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
