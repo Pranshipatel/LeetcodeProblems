@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0978-valid-mountain-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0978-valid-mountain-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
