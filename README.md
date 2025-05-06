@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0792-binary-search) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
