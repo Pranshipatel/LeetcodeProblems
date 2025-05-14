@@ -1,36 +1,38 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-      int left =  leftRound(nums, target);
-      int right = rightRound(nums,target);
-      return new int []{left,right};
-    }
-    public static int leftRound(int nums[] ,int target){
-        int index = -1;
-        int start = 0 , end = nums.length-1;
+        int leftBound = leftRound(nums,target);
 
-        while(start <= end){
-          int mid = start + ( end - start)/2;
-          if(nums[mid] == target){
-            index = mid ;
-            end = mid-1;
-          }
-          else if(nums[mid]< target) start = mid+1;
-          else end = mid -1;
+        int rightBound = rightRound(nums,target);
+        
+        return new int []{leftBound,rightBound} ;
+    }
+    public int leftRound(int arr[],int k){
+        int s = 0;
+        int e = arr.length-1;
+        int index = -1;
+        while(s <= e){
+            int mid = s + (e-s)/2;
+            if(arr[mid] == k){
+                index = mid;
+                e = mid -1;
+            }
+            else if(arr[mid] < k)s = mid+1;
+            else e = mid-1;
         }
         return index;
     }
-    public static int rightRound(int nums[] ,int target){
+    public int rightRound(int arr[],int k){
+        int s = 0;
+        int e = arr.length-1;
         int index = -1;
-        int start = 0 , end = nums.length-1;
-
-        while(start <= end){
-          int mid = start + ( end - start)/2;
-          if(nums[mid] == target){
-            index = mid ;
-            start = mid + 1;
-          }
-          else if(nums[mid]< target) start = mid+1;
-          else end = mid -1;
+        while(s <= e){
+            int mid = s + (e-s)/2;
+            if(arr[mid] == k){
+                index = mid;
+                s = mid + 1;
+            }
+            else if(arr[mid] < k)s = mid+1;
+            else e = mid-1;
         }
         return index;
     }
