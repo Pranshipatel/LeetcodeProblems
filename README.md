@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Recursion
 |  |
