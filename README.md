@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
