@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
