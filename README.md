@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0204-count-primes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
