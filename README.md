@@ -6,6 +6,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -107,6 +108,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0035-search-insert-position) |
@@ -124,6 +126,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0948-sort-an-array) |
