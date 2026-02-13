@@ -121,6 +121,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -147,6 +148,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0020-valid-parentheses) |
@@ -174,6 +176,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
