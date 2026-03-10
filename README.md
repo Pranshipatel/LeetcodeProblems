@@ -256,6 +256,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1068-product-sales-analysis-i) |
