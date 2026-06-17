@@ -104,6 +104,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0258-add-digits](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -184,6 +185,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -278,4 +280,5 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
