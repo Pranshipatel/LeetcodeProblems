@@ -54,6 +54,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0258-add-digits) |
+| [1518-water-bottles](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1518-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -105,6 +106,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0268-missing-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1518-water-bottles) |
 | [1585-the-kth-factor-of-n](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
