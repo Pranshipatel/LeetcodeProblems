@@ -39,6 +39,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
@@ -148,6 +149,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0268-missing-number](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -239,6 +241,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranshipatel/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
